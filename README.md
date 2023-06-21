@@ -1,1 +1,1 @@
-# instalador05blmeli
+# qrcodezapinstall
